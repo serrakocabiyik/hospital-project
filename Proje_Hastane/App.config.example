@@ -1,0 +1,10 @@
+<configuration>
+  <connectionStrings>
+    <add name="HastaneProje"
+         connectionString="Data Source=YOUR_SERVER;
+                           Initial Catalog=HastaneProje;
+                           User ID=YOUR_USER;
+                           Password=YOUR_PASSWORD;"
+         providerName="System.Data.SqlClient"/>
+  </connectionStrings>
+</configuration>
